@@ -1072,7 +1072,7 @@
                 maven: '<dependency>\n' +
                     '    <groupId>com.citrsw</groupId>\n' +
                     '    <artifactId>java-api-docs</artifactId>\n' +
-                    '    <version>1.3.0-beta</version>\n' +
+                    '    <version>1.5.8-beta</version>\n' +
                     '</dependency>',
                 interceptor: '\n' +
                     '/**\n' +
